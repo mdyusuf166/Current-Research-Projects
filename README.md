@@ -10,7 +10,7 @@ My current work focuses on turning AI concepts into **reproducible research proj
 
 ---
 
-# 🚀 Current Research Projects
+#  Current Research Projects
 
 These are my **actively developing projects**.
 
